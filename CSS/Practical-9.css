@@ -5,14 +5,14 @@
 }
 .container {
   height: 100vh;
-  width: 100%;
+  width: 90%;
   margin: 0 auto;
 }
 .header {
   position: fixed;
   top: 0;
   height: 10vh;
-  width: 95%;
+  width: 85%;
   background-color: rgb(122, 115, 115);
   text-align: center;
 }
