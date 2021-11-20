@@ -1,0 +1,40 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+table {
+  border: 20px solid white;
+  border-collapse: collapse;
+  justify-content: center;
+  width: 70%;
+  margin-left: 200px;
+  margin-top: 20px;
+}
+th,
+td {
+  border: 1px solid white;
+  padding: 10px;
+  text-align: center;
+  font-family: arial;
+}
+th {
+  text-align: center;
+}
+th {
+  color: rgb(12, 12, 95);
+  font-size: 30px;
+}
+button {
+  background-color: darkblue;
+  padding: 10px 30px;
+  color: white;
+  border-radius: 5px;
+  border: none;
+}
+button:hover {
+  background-color: red;
+}
+table#alter tr:nth-child(odd) {
+  background-color: #eee;
+}

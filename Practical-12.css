@@ -1,0 +1,33 @@
+table {
+  border: 2px solid rgb(73, 73, 129);
+  border-collapse: collapse;
+  justify-content: center;
+  width: 70%;
+  margin-left: 200px;
+}
+th,
+td {
+  padding: 10px;
+}
+th {
+  text-align: left;
+}
+tr {
+  border: 1px solid rgb(214, 213, 213);
+  font-family: arial;
+}
+i {
+  color: grey;
+  margin: 5px;
+}
+a {
+  text-decoration: none;
+  color: grey;
+}
+a:hover {
+  color: orange;
+}
+
+i:hover {
+  color: blue;
+}
