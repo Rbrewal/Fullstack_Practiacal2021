@@ -1,0 +1,28 @@
+.container {
+  height: 60vh;
+  width: 50%;
+  background-color: pink;
+  align-items: center;
+  margin-top: 130px;
+  margin-left: 300px;
+}
+h1 {
+  font-size: 25px;
+  font-family: arial;
+  text-align: center;
+  line-height: 20vh;
+}
+button {
+  background-color: white;
+  padding: 0 40px;
+  margin-left: 250px;
+  display: inline-block;
+}
+input {
+  margin-left: 150px;
+  margin-top: 50px;
+  display: inline-block;
+  width: 350px;
+  padding: 10px;
+  outline: none;
+}
